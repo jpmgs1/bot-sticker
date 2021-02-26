@@ -37,23 +37,23 @@ INSTALAR O FFMPEG
 
 < pkg install ffmpeg >
 
-##INSTALAR O NODEJS
+INSTALAR O NODEJS
 
 < pkg install nodejs >
 
-##CLONAR O REPOSITÓRIO
+## CLONAR O REPOSITÓRIO
 
 < git clone https://github.com/jpmgs1/botsimples >
 
-##ENTRAR NO DIRETÓRIO
+ENTRAR NO DIRETÓRIO
 
 < cd termux-whatsapp-sticker-maker >
 
-##INSTALAR UNS TROÇOS
+INSTALAR UNS TROÇOS
 
 < npm i >
 
-##INICIAR O BOT
+## INICIAR O BOT
 
 < node index.js >
 
