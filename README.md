@@ -1,23 +1,23 @@
 ## BOT DE FIGURINHA WHATSAPP 
 
-꧁ O BOT FAZ ꧂
+😄 O BOT FAZ 😄
 
-Foto OK 
-Vídeo OK 
-Gif OK 
+✔ Foto
+✔ Vídeo
+✔ Gif
 
 ## PESQUISAS DE IMAGENS 
 
-×× Basta dar /imagem + oq deseja procurar ××
+Basta digitar /imagem + oq deseja procurar 
  Exemplo /imagem loli
 
 ## PESQUISAS IMAGENS FIGURINHA
 
-×× Basta dar /imagem sticker + oq deseja procurar ××
+Basta digitar /imagem sticker + oq deseja procurar ××
  Exemplo /imagem sticker loli
 
-         MT FÁCIL 😳👍
-
+   Muito Fácil 😳👍 - 
+ 
 
 
 ![Screenshot_20201227-221721.png](https://github.com/jpmgs1/botsimples/blob/main/exemplo.png)
