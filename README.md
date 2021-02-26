@@ -1,3 +1,7 @@
+💰DOE VIA PIX💰
+jpmgs1@gmail.com
+Ajude a Melhorar o BOT
+
 ## BOT DE FIGURINHA WHATSAPP 
 
 😄 O BOT FAZ 😄
