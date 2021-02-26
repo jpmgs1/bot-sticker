@@ -51,7 +51,7 @@ git clone https://github.com/jpmgs1/botsimples
 
 ✔ ENTRAR NO DIRETÓRIO
 
-cd termux-whatsapp-sticker-maker
+cd botsimples
 
 ✔ INSTALAR UNS TROÇOS
 
