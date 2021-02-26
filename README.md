@@ -1,6 +1,6 @@
 ## BOT DE FIGURINHA WHATSAPP 
 
-×× O BOT FAZ ××
+꧁ O BOT FAZ ꧂
 
 Foto OK 
 Vídeo OK 
