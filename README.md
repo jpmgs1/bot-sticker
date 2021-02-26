@@ -1,4 +1,4 @@
-<p align="center"> 💰DOE VIA PIX💰  
+<p align="center"> 💰DOE VIA PIX💰 </p>
 PIX: ❖ jpmgs1@gmail.com ❖    
 Ajude a Melhorar o BOT </p>
 
