@@ -29,37 +29,37 @@ Basta digitar /imagem sticker + oq deseja procurar ××
 
 ## COMO INSTALAR 
 
-INSTALAR O PYTHON
+✔ INSTALAR O PYTHON
 
-<pkg install python >
+pkg install python
 
-INSTALAR O GIT
+✔ INSTALAR O GIT
 
-<pkg install git >
+pkg install git
 
-INSTALAR O FFMPEG
+✔ INSTALAR O FFMPEG
 
-< pkg install ffmpeg >
+pkg install ffmpeg
 
-INSTALAR O NODEJS
+✔ INSTALAR O NODEJS
 
-< pkg install nodejs >
+pkg install nodejs
 
 ## CLONAR O REPOSITÓRIO
 
-< git clone https://github.com/jpmgs1/botsimples >
+git clone https://github.com/jpmgs1/botsimples
 
-ENTRAR NO DIRETÓRIO
+✔ ENTRAR NO DIRETÓRIO
 
-< cd termux-whatsapp-sticker-maker >
+cd termux-whatsapp-sticker-maker
 
-INSTALAR UNS TROÇOS
+✔ INSTALAR UNS TROÇOS
 
-< npm i >
+npm i
 
 ## INICIAR O BOT
 
-< node index.js >
+node index.js
 
 AI DEVE APARECER UM CÓDIGO QR SÓ ESCANEAR O CÓDIGO PELO WHATSAPP QUE FUNCIONA
 
