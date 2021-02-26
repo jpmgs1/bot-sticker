@@ -49,7 +49,7 @@ ENTRAR NO DIRETÓRIO
 
 < cd termux-whatsapp-sticker-maker >
 
-INSTALAR AS PARADAS
+INSTALAR UNS TROÇOS
 
 < npm i >
 
