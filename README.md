@@ -42,19 +42,19 @@ Basta digitar /imagem sticker + oq deseja procurar ××
 
 ## CLONAR O REPOSITÓRIO
 
-git clone https://github.com/jpmgs1/botsimples
+> git clone https://github.com/jpmgs1/botsimples
 
 ✔ ENTRAR NO DIRETÓRIO
 
-cd botsimples
+> cd botsimples
 
 ✔ INSTALAR UNS TROÇOS
 
-npm i
+> npm i
 
 ## INICIAR O BOT
 
-node index.js
+>node index.js
 
 AI DEVE APARECER UM CÓDIGO QR SÓ ESCANEAR O CÓDIGO PELO WHATSAPP QUE FUNCIONA
 
