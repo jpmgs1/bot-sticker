@@ -29,19 +29,13 @@ Basta digitar /imagem sticker + oq deseja procurar ××
 
 ## COMO INSTALAR 
 
-✔ INSTALAR O PYTHON
+✔ INSTALAR DEPENDÊNCIAS
 
 pkg install python
 
-✔ INSTALAR O GIT
-
 pkg install git
 
-✔ INSTALAR O FFMPEG
-
 pkg install ffmpeg
-
-✔ INSTALAR O NODEJS
 
 pkg install nodejs
 
