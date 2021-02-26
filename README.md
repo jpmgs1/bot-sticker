@@ -1,4 +1,4 @@
-##×× BOT DE FIGURINHA WHATSAPP ××
+## BOT DE FIGURINHA WHATSAPP 
 
 ×× O BOT FAZ ××
 
@@ -6,12 +6,12 @@ Foto OK
 Vídeo OK 
 Gif OK 
 
-##×× PESQUISAS DE IMAGENS ××
+## PESQUISAS DE IMAGENS 
 
 ×× Basta dar /imagem + oq deseja procurar ××
  Exemplo /imagem loli
 
-##×× PESQUISAS IMAGENS FIGURINHA ××
+## PESQUISAS IMAGENS FIGURINHA
 
 ×× Basta dar /imagem sticker + oq deseja procurar ××
  Exemplo /imagem sticker loli
@@ -23,7 +23,7 @@ Gif OK
 ![Screenshot_20201227-221721.png](https://github.com/jpmgs1/botsimples/blob/main/exemplo.png)
 
 
-##×× COMO INSTALAR ××
+## COMO INSTALAR 
 
 INSTALAR O PYTHON
 
