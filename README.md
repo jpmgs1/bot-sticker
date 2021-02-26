@@ -11,7 +11,7 @@
 <p align="center">✔ Vídeo ----- FIGURINHA ANIMADA</p>
 <p align="center">✔ Gif ----- FIGURINHA ANIMADA</p>
 
-## PESQUISAS DE IMAGENS 
+## PESQUISAS DE IMAGENS  ⇨⇒➞➜➢➣➤➪➮➼➽➵➱➲⟹
 
 Basta digitar /imagem + oq deseja procurar 
  Exemplo /imagem loli
