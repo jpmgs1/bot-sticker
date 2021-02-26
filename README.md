@@ -1,5 +1,5 @@
 <p align="center"> 💰DOE VIA PIX💰 </p>
-PIX: ❖ jpmgs1@gmail.com ❖    
+<p align="center"> PIX: ❖ jpmgs1@gmail.com ❖ </p>
 Ajude a Melhorar o BOT </p>
 
 ## BOT DE FIGURINHA WHATSAPP 
