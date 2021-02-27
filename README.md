@@ -26,7 +26,7 @@ Basta digitar /imagem sticker + oq deseja procurar ××
  
 
 
-![Screenshot_20201227-221721.png](https://github.com/jpmgs1/botsimples/blob/main/exemplo.png)
+![Screenshot_20201227-221721.png](https://github.com/jpmgs1/botsimples/blob/main/ex.jpg)
 
 
 ## COMO INSTALAR 
