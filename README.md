@@ -57,7 +57,7 @@ Basta digitar /imagem sticker + oq deseja procurar ××
 
 > npm i
 
-> Esse comando acima vai demorar, mas espere. tá ok!
+> Esse comando acima vai demorar uns 10 min, mas espere. tá ok!
 
 
 ## INICIAR O BOT
