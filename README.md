@@ -51,7 +51,7 @@ Basta digitar /imagem sticker + oq deseja procurar ××
 
 ✔ ENTRAR NO DIRETÓRIO
 
-> cd botsimples
+> cd bot-sticker
 
 ✔ INSTALAR UNS TROÇOS
 
