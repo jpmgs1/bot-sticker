@@ -25,9 +25,9 @@ Basta digitar /imagem sticker + oq deseja procurar ××
    Muito Fácil 😳👍 - 
  
 
-
+<h1 align="center">
 ![Screenshot_20201227-221721.png](https://github.com/jpmgs1/bot-sticker/blob/main/Ex.jpg)
-
+</h1
 
 ## COMO INSTALAR 
 
