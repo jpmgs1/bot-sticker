@@ -17,7 +17,7 @@ async function connectToWhatsApp() {
   conn.autoReconnect = ReconnectMode.onConnectionLost; // only automatically reconnect when the connection breaks
   conn.logger.level = "fatal"; // set to 'debug' to see what kind of stuff you can implement
   // attempt to reconnect at most 10 times in a row
-  conn.connectOptions.maxRetries = 10;
+  conn.connectOptions.maxRetries = 50;
   conn.on("credentials-updated", () => {
     console.log("credentials updated");
     const authInfo = conn.base64EncodedAuthInfo(); // get all the auth info we need to restore this session
@@ -49,9 +49,9 @@ async function connectToWhatsApp() {
       m.message.videoMessage.caption == "/sticker"
     ) {
       let processOptions = {
-        fps: 10,
+        fps: 15,
         startTime: `00:00:00.0`,
-        endTime: `00:00:05.0`,
+        endTime: `00:00:09.0`,
         loop: 0,
       };
       const tempFile = path.join(
