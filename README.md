@@ -33,7 +33,7 @@ Basta digitar /imagem sticker + oq deseja procurar ××
 
 
  
-<p align="center"> ## COMO INSTALAR 
+## COMO INSTALAR 
 
 ✔ INSTALAR DEPENDÊNCIAS
 
@@ -57,7 +57,7 @@ Basta digitar /imagem sticker + oq deseja procurar ××
 
 > npm i
 
-> Esse comando acima vai demorar, mas espere. tá ok!</p>
+> Esse comando acima vai demorar, mas espere. tá ok!
 
 
 ## INICIAR O BOT
