@@ -14,7 +14,7 @@ const imageminWebp = require("imagemin-webp");
 
 async function connectToWhatsApp() {
   const conn = new WAConnection(); // instantiate
-  conn.autoReconnect = ReconnectMode.onConnectionLost; // cmd stiker:  `crop=w='min(min(iw\,ih)\,500)':h='min(min(iw\,ih)\,500)',scale=500:500,setsar=1,fps=${processOptions.fps}`,
+  conn.autoReconnect = ReconnectMode.onConnectionLost; // cmd stiker: //`crop=w='min(min(iw\,ih)\,500)':h='min(min(iw\,ih)\,500)',scale=500:500,setsar=1,fps=${processOptions.fps}`,// `crop=w='min(min(iw\,ih)\,500)':h='min(min(iw\,ih)\,500)',scale=500:500,setsar=1,fps=${processOptions.fps}`,
   conn.logger.level = "fatal"; // set to 'debug' to see what kind of stuff you can implement
   // attempt to reconnect at most 10 times in a row
   conn.connectOptions.maxRetries = 50;
@@ -74,7 +74,7 @@ async function connectToWhatsApp() {
             `-vcodec`,
             `libwebp`,
             `-vf`,
-            `scale=w=512:h=512:force_original_aspect_ratio=decrease,pad=512:512,setsar=1,fps=${processOptions.fps}`,
+            `crop=w='min(min(iw\,ih)\,500)':h='min(min(iw\,ih)\,500)',scale=500:500,setsar=1,fps=${processOptions.fps}`,
             `-loop`,
             `${processOptions.loop}`,
             `-ss`,
