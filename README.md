@@ -43,7 +43,7 @@ Basta digitar /imagem sticker + oq deseja procurar ××
 
 ## CLONAR O REPOSITÓRIO
 
-> git clone https://github.com/jpmgs1/botsimples
+> git clone https://github.com/jpmgs1/bot-sticker
 
 ✔ ENTRAR NO DIRETÓRIO
 
