@@ -61,8 +61,8 @@ Basta digitar /imagem sticker + oq deseja procurar ××
 
 >node index.js
 
-AI DEVE APARECER UM CÓDIGO QR SÓ ESCANEAR O CÓDIGO PELO WHATSAPP QUE FUNCIONA
+VAI APARECER UM CÓDIGO QR SÓ ESCANEAR O CÓDIGO PELO WHATSAPP
 
-   AI O BOT JÁ ESTA FUNCIONANDO
+PRONTO BOT JÁ ESTA FUNCIONANDO
 
 Créditos para [@adiwajshing](https://github.com/adiwajshing/) pela API do WhatsApp. 
