@@ -16,11 +16,11 @@
 
 /sticker (transforma imagem, gif ou vídeo até 09seg)
 
-## PESQUISAS FIGURINHA
+## PESQUISA FIGURINHA
 
 /imagem sticker + oq deseja procurar
 
-## PESQUISAS IMAGENS 
+## PESQUISA IMAGENS 
 
 /imagem + oq deseja procurar 
 
