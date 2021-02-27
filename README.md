@@ -14,9 +14,9 @@
 
 ## COMANDO PARA FIGURINHA E FIGURINHA ANIMADA  
 
-/sticker (trasnforma imagem, gif ou vídeo até 09seg)
+/sticker (transforma imagem, gif ou vídeo até 09seg)
 
-## PESQUISAS IMAGENS FIGURINHA
+## PESQUISAS FIGURINHA
 
 /imagem sticker + oq deseja procurar
 
