@@ -52,7 +52,7 @@ Basta digitar /imagem sticker + oq deseja procurar ××
 ✔ INSTALAR UNS TROÇOS
 
 > npm i
-Esse comando acima vai demorar, mas espere. tá ok!
+> Esse comando acima vai demorar, mas espere. tá ok!
 
 ## INICIAR O BOT
 
