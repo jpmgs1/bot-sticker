@@ -12,19 +12,20 @@
 <p align="center">✔ Vídeo ➤➤ FIGURINHA ANIMADA</p>
 <p align="center">✔ Gif ➤➤ FIGURINHA ANIMADA</p>
 
-## PESQUISAS DE IMAGENS  
+## COMANDO PARA FIGURINHA E FIGURINHA ANIMADA  
 
-Basta digitar /imagem + oq deseja procurar 
- Exemplo /imagem loli
+/sticker (trasnforma imagem, gif ou vídeo até 09seg)
 
 ## PESQUISAS IMAGENS FIGURINHA
 
-Basta digitar /imagem sticker + oq deseja procurar ××
- Exemplo /imagem sticker loli
+/imagem sticker + oq deseja procurar
+
+## PESQUISAS IMAGENS 
+
+/imagem + oq deseja procurar 
 
 <p align="center">Muito Fácil 😳👍 </p>
  
-
 <h1 align="center">
  
 ![Screenshot_20201227-221721.png](https://github.com/jpmgs1/bot-sticker/blob/main/Ex.jpg)
