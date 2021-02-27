@@ -37,13 +37,13 @@ Basta digitar /imagem sticker + oq deseja procurar ××
 
 ✔ INSTALAR DEPENDÊNCIAS
 
->> pkg install python
+> pkg install python
 
->> pkg install git
+> pkg install git
 
->> pkg install ffmpeg
+> pkg install ffmpeg
 
->> pkg install nodejs
+> pkg install nodejs
 
 ## CLONAR O REPOSITÓRIO
 
