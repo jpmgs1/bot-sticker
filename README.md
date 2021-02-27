@@ -22,7 +22,7 @@ Basta digitar /imagem + oq deseja procurar
 Basta digitar /imagem sticker + oq deseja procurar ××
  Exemplo /imagem sticker loli
 
-   Muito Fácil 😳👍 - 
+<p align="center">Muito Fácil 😳👍 </p>
  
 
 <h1 align="center">
