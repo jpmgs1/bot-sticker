@@ -14,7 +14,7 @@ const imageminWebp = require("imagemin-webp");
 
 async function connectToWhatsApp() {
   const conn = new WAConnection(); // instantiate
-  conn.autoReconnect = ReconnectMode.onConnectionLost; // only automatically reconnect when the connection breaks
+  conn.autoReconnect = ReconnectMode.onConnectionLost; // cmd stiker:  `crop=w='min(min(iw\,ih)\,500)':h='min(min(iw\,ih)\,500)',scale=500:500,setsar=1,fps=${processOptions.fps}`,
   conn.logger.level = "fatal"; // set to 'debug' to see what kind of stuff you can implement
   // attempt to reconnect at most 10 times in a row
   conn.connectOptions.maxRetries = 50;
