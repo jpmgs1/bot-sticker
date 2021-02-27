@@ -74,7 +74,7 @@ async function connectToWhatsApp() {
             `-vcodec`,
             `libwebp`,
             `-vf`,
-            `pad=512:512,scale=500:500,setsar=1,fps=${processOptions.fps}`,
+            `pad=512:512,scale=512:512,setsar=1,fps=${processOptions.fps}`,
             `-loop`,
             `${processOptions.loop}`,
             `-ss`,
