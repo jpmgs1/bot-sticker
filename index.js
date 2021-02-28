@@ -74,7 +74,7 @@ async function connectToWhatsApp() {
             `-vcodec`,
             `libwebp`,
             `-vf`,
-            `scale='min(min(iw\,ih)\,512)':h='min(min(iw\,ih)\,512)',force_original_aspect_ratio=decrease,pad=512:512,setsar=1,fps=${processOptions.fps}`,
+            `crop=w='min(min(iw\,ih)\,512)':h='min(min(iw\,ih)\,512)',scale=512:512,setsar=1,fps=${processOptions.fps}`,
             `-loop`,
             `${processOptions.loop}`,
             `-ss`,
