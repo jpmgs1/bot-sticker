@@ -20,11 +20,11 @@
 
 ## PESQUISA FIGURINHA
 
-/imagem sticker + oq deseja procurar
+/imagem sticker + o que deseja procurar
 
 ## PESQUISA IMAGENS 
 
-/imagem + oq deseja procurar 
+/imagem + o que deseja procurar 
 
 <p align="center">Muito Fácil 😳👍 </p>
  
