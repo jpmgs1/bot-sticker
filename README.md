@@ -11,6 +11,8 @@
 <p align="center">✔ Foto ➤➤ FIGURINHA</p>
 <p align="center">✔ Vídeo ➤➤ FIGURINHA ANIMADA</p>
 <p align="center">✔ Gif ➤➤ FIGURINHA ANIMADA</p>
+<p align="center">✔ Pesquisa ➤➤ IMAGEM</p>
+<p align="center">✔ Pesquisa ➤➤ FIGURINHA</p>
 
 ## COMANDO PARA FIGURINHA E FIGURINHA ANIMADA  
 
