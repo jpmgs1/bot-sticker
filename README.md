@@ -26,7 +26,7 @@
 
 /imagem + o que deseja procurar 
 
-<p align="center">Muito Fácil 😳👍 </p>
+<p align="center">🔰🔰Muito Fácil🔰🔰</p>
  
 <h1 align="center">
  
