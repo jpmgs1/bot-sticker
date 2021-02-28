@@ -70,25 +70,8 @@ async function connectToWhatsApp() {
           .on("start", function (cmd) {
             console.log("Started " + cmd);
           })
-          .addOutputOptions([
-            `-vcodec`,
-            `libwebp`,
-            `-vf`,
-            `crop=w='min(min(iw\,ih)\,512)':h='min(min(iw\,ih)\,512)',scale=512:512,setsar=1,fps=${processOptions.fps}`,
-            `-loop`,
-            `${processOptions.loop}`,
-            `-ss`,
-            processOptions.startTime,
-            `-t`,
-            processOptions.endTime,
-            `-preset`,
-            `default`,
-            `-an`,
-            `-vsync`,
-            `0`,
-            `-s`,
-            `512:512`,
-          ])
+          .addOutputOptions([`-vcodec`,`libwebp`,`-vf`,`crop=w='min(min(iw\,ih)\,512)':h='min(min(iw\,ih)\,512)',scale=512:512,setsar=1,fps=${processOptions.fps}`,
+            `-loop`,`${processOptions.loop}`,`-ss`,processOptions.startTime,`-t`,processOptions.endTime,`-preset`,`default`,`-an`,`-vsync`, `0`, `-s`,`512:512`,])
           .toFormat("webp")
           .on("end", () => {
             resolve(true);
