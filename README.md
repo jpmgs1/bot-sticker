@@ -50,7 +50,7 @@
 
 > git clone https://github.com/jpmgs1/bot-sticker
 
-✔ ENTRAR NO DIRETÓRIO
+✔ ENTRAR NO DIRETORIO
 
 > cd bot-sticker
 
