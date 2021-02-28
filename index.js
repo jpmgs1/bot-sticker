@@ -14,7 +14,7 @@ const imageminWebp = require("imagemin-webp");
 
 async function connectToWhatsApp() {
   const conn = new WAConnection(); // cmd stiker: //`crop=w='min(min(iw\,ih)\,500)':h='min(min(iw\,ih)\,500)',scale=500:500,setsar=1,fps=${processOptions.fps}`,
-  conn.autoReconnect = ReconnectMode.onConnectionLost; // cmd stiker teste: //`scale='min(min(iw\,ih)\,512)':h='min(min(iw\,ih)\,512)',force_original_aspect_ratio=decrease,pad=512:512,setsar=1,fps=${processOptions.fps}`,
+  conn.autoReconnect = ReconnectMode.onConnectionLost; // cmd stiker teste: //.addOutputOptions([`-vcodec`,`libwebp`,`-vf`,`scale='min(320,iw)':min'(320,ih)':force_original_aspect_ratio=decrease,fps=15, pad=320:320:-1:-1:color=white@0.0, split [a][b]; [a] palettegen=reserve_transparent=on:transparency_color=ffffff [p]; [b][p] paletteuse`])
   conn.logger.level = "fatal"; // set to 'debug' to see what kind of stuff you can implement
   // attempt to reconnect at most 10 times in a row
   conn.connectOptions.maxRetries = 50;
@@ -70,8 +70,7 @@ async function connectToWhatsApp() {
           .on("start", function (cmd) {
             console.log("Started " + cmd);
           })
-          .addOutputOptions([`-vcodec`,`libwebp`,`-vf`,`crop=w='min(min(iw\,ih)\,512)':h='min(min(iw\,ih)\,512)',scale=512:512,setsar=1,fps=${processOptions.fps}`,
-            `-loop`,`${processOptions.loop}`,`-ss`,processOptions.startTime,`-t`,processOptions.endTime,`-preset`,`default`,`-an`,`-vsync`, `0`, `-s`,`512:512`,])
+          .addOutputOptions([`-vcodec`,`libwebp`,`-vf`,`scale='min(512,iw)':min'(512,ih)':force_original_aspect_ratio=decrease,fps=15, pad=512:512:-1:-1:color=white@0.0, split [a][b]; [a] palettegen=reserve_transparent=on:transparency_color=ffffff [p]; [b][p] paletteuse`])
           .toFormat("webp")
           .on("end", () => {
             resolve(true);
