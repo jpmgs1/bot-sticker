@@ -40,13 +40,13 @@
 
 ✔ INSTALAR DEPENDÊNCIAS
 
->> pkg install python
+> pkg install python
 
->> pkg install git
+> pkg install git
 
->> pkg install nodejs
+> pkg install nodejs
 
->>  pkg install ffmpeg
+>  pkg install ffmpeg
 
 ## CLONAR O REPOSITÓRIO
 
