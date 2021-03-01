@@ -17,7 +17,7 @@ async function connectToWhatsApp() {
   conn.autoReconnect = ReconnectMode.onConnectionLost; 
   conn.logger.level = "fatal"; // set to 'debug' to see what kind of stuff you can implement
   // attempt to reconnect at most 10 times in a row
-  conn.connectOptions.maxRetries = 20;
+  conn.connectOptions.maxRetries = 10;
   conn.on("credentials-updated", () => {
     console.log("credentials updated");
     const authInfo = conn.base64EncodedAuthInfo(); // get all the auth info we need to restore this session
