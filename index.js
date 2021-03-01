@@ -70,7 +70,25 @@ async function connectToWhatsApp() {
           .on("start", function (cmd) {
             console.log("Started " + cmd);
           })
-          .addOutputOptions([`-vcodec`,`libwebp`,`-vf`,`scale=iw*min(1\,min(512/iw\,512/ih)):-1':force_original_aspect_ratio=decrease,fps=15, pad=512:512:-1:-1:color=white@0.0, split [a][b]; [a] palettegen=reserve_transparent=on:transparency_color=ffffff [p]; [b][p] paletteuse`])
+           .addOutputOptions([
+            `-vcodec`,
+            `libwebp`,
+            `-vf`,
+            `crop=w='min(min(iw\,ih)\,500)':h='min(min(iw\,ih)\,500)',scale=500:500,setsar=1,fps=${processOptions.fps}`,
+            `-loop`,
+            `${processOptions.loop}`,
+            `-ss`,
+            processOptions.startTime,
+            `-t`,
+            processOptions.endTime,
+            `-preset`,
+            `default`,
+            `-an`,
+            `-vsync`,
+            `0`,
+            `-s`,
+            `512:512`,
+          ])
           .toFormat("webp")
           .on("end", () => {
             resolve(true);
