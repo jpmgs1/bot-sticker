@@ -1,4 +1,9 @@
 <p align="center"> 💰 DOE VIA PIX 💰 </p> 
+<h1 align="center">
+ 
+![Screenshot_20201227-221721.png](https://github.com/jpmgs1/bot-sticker/blob/main/Ex.jpg)
+
+</h1>
 <p align="center">⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧</p>
 <p align="center"> Qualquer valor será Bem-Vindo </p>
 <p align="center"> PIX: ❖ jpmgs1@gmail.com ❖ </p>
