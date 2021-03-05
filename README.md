@@ -1,7 +1,7 @@
 <p align="center"> 💰 DOE VIA PIX 💰 </p> 
 <h1 align="center">
  
-![Screenshot_20201227-221721.png](https://github.com/jpmgs1/bot-sticker/blob/main/Ex.jpg)
+![Screenshot_20201227-221721.png](https://github.com/jpmgs1/bot-sticker/blob/main/ajuda%201,00R$.jpeg?raw=true)
 
 </h1>
 <p align="center">⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧</p>
