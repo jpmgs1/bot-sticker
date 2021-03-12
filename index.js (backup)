@@ -70,7 +70,7 @@ async function connectToWhatsApp() {
           .on("start", function (cmd) {
             console.log("Started " + cmd);
           })
-           .addOutputOptions([
+           .addOutputOptions([ \\removendo o crop=w='min(min(iw\,ih)\,500)':h='min(min(iw\,ih)\,500) e mudando  `-vsync` `0` para `1` a figurinha ajusta ao pad 512
             `-vcodec`,
             `libwebp`,
             `-vf`,
