@@ -85,7 +85,7 @@ async function connectToWhatsApp() {
             `default`,
             `-an`,
             `-vsync`,
-            `0`,
+            `1`,
             `-s`,
             `512:512`,
           ])
