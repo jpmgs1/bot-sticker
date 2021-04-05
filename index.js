@@ -19,7 +19,7 @@ async function connectToWhatsApp() {
   // attempt to reconnect at most 10 times in a row
   conn.connectOptions.maxRetries = 10;
   conn.on("credentials-updated", () => {
-    console.log("credentials updated");
+    console.log("Reconectado");
     const authInfo = conn.base64EncodedAuthInfo(); // get all the auth info we need to restore this session
     fs.writeFileSync("./auth_info.json", JSON.stringify(authInfo, null, "\t")); // save this info to a file
   });
