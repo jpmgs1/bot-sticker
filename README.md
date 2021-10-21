@@ -1,7 +1,7 @@
 <p align="center"> 💰 DOE VIA PIX 💰 </p> 
 <h1 align="center">
  
-![Screenshot_20201227-221721.png](https://raw.githubusercontent.com/jpmgs1/bot-sticker/main/qrcode.png)
+jpmgs1@gmail.com
 
 </h1>
 <p align="center">⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧</p>
