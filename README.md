@@ -51,7 +51,7 @@ jpmgs1@gmail.com
 
 > pkg install nodejs
 
->  pkg install ffmpeg
+> pkg install ffmpeg
 
 ## CLONAR O REPOSITÓRIO
 
