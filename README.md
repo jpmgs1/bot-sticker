@@ -1,12 +1,12 @@
 <p align="center"> 💰 DOE VIA PIX 💰 </p> 
 <h1 align="center">
  
-```jpmgs1@gmail.com```
+``` PIX: ❖ jpmgs1@gmail.com ❖```
 
 </h1>
 <p align="center">⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧</p>
 <p align="center"> Qualquer valor será Bem-vindo. Obrigado. </p>
-<p align="center"> PIX: ❖ jpmgs1@gmail.com ❖ </p>
+
 <p align="center"> Ajude a Melhorar o BOT </p>
 
 ## BOT DE FIGURINHA WHATSAPP 
