@@ -9,7 +9,7 @@
 
 <p align="center"> Ajude a Melhorar o BOT </p>
 
-## BOT DE FIGURINHA WHATSAPP 
+## 🤖 BOT DE FIGURINHA WHATSAPP 🤖
 
 <p align="center">😄 O QUE O BOT FAZ 😄
 
