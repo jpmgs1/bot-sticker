@@ -1,4 +1,4 @@
-<p align="center"> 💰 DOE VIA PIX 💰 </p> 
+<h1><p align="center"> 💰 DOE VIA PIX 💰 </p> </h1>
 <h1 align="center">
  
 ``` PIX: ❖ jpmgs1@gmail.com ❖```
