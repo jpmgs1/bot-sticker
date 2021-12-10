@@ -11,13 +11,12 @@
 
 ## 🤖 BOT DE FIGURINHA WHATSAPP 🤖
 
-<p align="center">😄 O QUE O BOT FAZ 😄
-
-<p align="center">✔ Foto ➤➤ FIGURINHA</p>
-<p align="center">✔ Vídeo ➤➤ FIGURINHA ANIMADA</p>
-<p align="center">✔ Gif ➤➤ FIGURINHA ANIMADA</p>
-<p align="center">✔ Pesquisa ➤➤ IMAGEM</p>
-<p align="center">✔ Pesquisa ➤➤ FIGURINHA</p>
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| ✔ Foto | FIGURINHA |
+| ✔ Gif  | FIGURINHA ANIMADA |
+| ✔ Vídeo | FIGURINHA ANIMADA |
+| ✔ Pesquisa | IMAGENS E FIGURINHAS |
 
 ## COMANDO PARA FIGURINHA E FIGURINHA ANIMADA  
 
