@@ -8,7 +8,8 @@
 <p align="center"> Qualquer valor será Bem-vindo. Obrigado. </p>
 
 <p align="center"> Ajude a Melhorar o BOT </p>
-
+<DIV ALIGN="CENTER">
+ 
 ## 🤖 BOT DE FIGURINHA WHATSAPP 🤖
 
 | FUNÇÕES           | DETALHES                                                           |
@@ -17,7 +18,7 @@
 | ✔ Gif  | FIGURINHA ANIMADA |
 | ✔ Vídeo | FIGURINHA ANIMADA |
 | ✔ Pesquisa | IMAGENS E FIGURINHAS |
-
+</DIV>
 ## COMANDO PARA FIGURINHA E FIGURINHA ANIMADA  
 
 /sticker (transforma imagem, gif ou vídeo até 09seg)
