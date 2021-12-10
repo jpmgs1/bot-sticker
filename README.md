@@ -19,9 +19,11 @@
 | ✔ Vídeo | FIGURINHA ANIMADA |
 | ✔ Pesquisa | IMAGENS E FIGURINHAS |
 </DIV>
+
+
 ## COMANDO PARA FIGURINHA E FIGURINHA ANIMADA  
 
-/sticker (transforma imagem, gif ou vídeo até 09seg)
+| /sticker | transforma imagem, gif ou vídeo até 09seg |
 
 ## PESQUISA FIGURINHA
 
