@@ -11,7 +11,7 @@
 
 ## 🤖 BOT DE FIGURINHA WHATSAPP 🤖
 
-| Color             | Hex                                                                |
+| FUNÇÕES           | DETALHES                                                           |
 | ----------------- | ------------------------------------------------------------------ |
 | ✔ Foto | FIGURINHA |
 | ✔ Gif  | FIGURINHA ANIMADA |
