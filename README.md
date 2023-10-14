@@ -65,7 +65,7 @@
 
 ✔ INSTALAR UNS TROÇOS
 
-> npm i
+> bash install.sh
 
 > Esse comando acima vai demorar uns 10 min, mas espere. tá ok!
 
