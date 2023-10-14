@@ -1,7 +1,7 @@
 <h1><p align="center"> 💰 DOE VIA PIX 💰 </p> </h1>
 <h1 align="center">
  
-``` PIX: ❖ jpmgs1@gmail.com ❖```
+``` PIX: ❖ 84988360022 ❖```
 
 </h1>
 <p align="center">⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧</p>
