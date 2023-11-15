@@ -10,7 +10,7 @@
 <p align="center"> Ajude a Melhorar o BOT </p>
 <DIV ALIGN="CENTER">
  
-## 🤖 BOT DE FIGURINHA WHATSAPP 🤖
+## 🤖 BOT DE FIGURINHA WHATSAPP TERMUX 🤖
 
 | FUNÇÕES           | DETALHES                                                           |
 | ----------------- | ------------------------------------------------------------------ |
