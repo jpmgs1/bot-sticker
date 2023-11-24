@@ -3,7 +3,7 @@ const {
   WAConnection,
   MessageType,
   ReconnectMode,
-} = require("@adiwajshing/baileys");
+} = require("@whiskeysockets/baileys");
 const ffmpeg = require("fluent-ffmpeg");
 const streamifier = require("streamifier");
 const Axios = require("axios");
