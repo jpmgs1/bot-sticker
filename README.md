@@ -78,4 +78,4 @@ VAI APARECER UM CÓDIGO QR SÓ ESCANEAR O CÓDIGO PELO WHATSAPP
 
 PRONTO BOT JÁ ESTA FUNCIONANDO
 
-Créditos para [@adiwajshing](https://github.com/adiwajshing/) pela API do WhatsApp. 
+Créditos para [@whiskeysockets/baileys) pela API do WhatsApp. 
